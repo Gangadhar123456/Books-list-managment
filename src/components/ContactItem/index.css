@@ -1,0 +1,11 @@
+.list-books {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  border: solid 3px gray;
+  margin-bottom: 5px;
+}
+.remove-button {
+  margin-bottom: 8px;
+}
